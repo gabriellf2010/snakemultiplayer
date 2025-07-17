@@ -1,0 +1,5 @@
+{
+  "name": "Snake Multiplayer Offline",
+  "description": "A classic snake game where two players can compete simultaneously on the same screen. The game features increasing difficulty, special power-ups from different types of food, and a persistent score history for each player.",
+  "requestFramePermissions": []
+}
